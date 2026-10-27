@@ -8,3 +8,4 @@
 7-everybody: Adds execute permission for all users to the file hello.
 8-James_Bond: Sets hello permissions to 007, granting all permissions only to others.
 9-John_Doe: Sets the permissions of hello to 753 (rwxr-x-wx).
+10-mirror_permissions: Sets hello's permissions to match those of olleh.
