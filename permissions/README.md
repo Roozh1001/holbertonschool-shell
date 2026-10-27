@@ -9,3 +9,4 @@
 8-James_Bond: Sets hello permissions to 007, granting all permissions only to others.
 9-John_Doe: Sets the permissions of hello to 753 (rwxr-x-wx).
 10-mirror_permissions: Sets hello's permissions to match those of olleh.
+11-directories_permissions: Adds execute permission for everyone to non-hidden immediate subdirectories without changing regular files.
