@@ -25,3 +25,4 @@
 23-empty_casks: finds all empty files and directories in the current directory and sub-directories, printing only their names
 24-gifs: lists all the .gif regular files in the current directory and sub-directories without extensions, sorted case-insensitively by byte value
 25-acrostic: decodes acrostics that use the first letter of each line
+26-the_biggest_fan: displays the 11 hosts or IPs with the most requests from a TSV web server log
