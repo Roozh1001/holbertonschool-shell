@@ -24,3 +24,4 @@
 22-users_and_homes: displays all users and their home directories, sorted by users
 23-empty_casks: finds all empty files and directories in the current directory and sub-directories, printing only their names
 24-gifs: lists all the .gif regular files in the current directory and sub-directories without extensions, sorted case-insensitively by byte value
+25-acrostic: decodes acrostics that use the first letter of each line
