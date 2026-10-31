@@ -14,3 +14,4 @@
 11-binary_to_decimal: converts the base 2 number stored in BINARY to base 10
 11-binary_to_decimal: converts the base 2 number stored in BINARY to base 10
 12-combinations: prints all two-letter lowercase combinations from aa to zz, except oo
+13-print_float: prints the number stored in NUM with two decimal places
