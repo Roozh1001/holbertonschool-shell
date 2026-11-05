@@ -18,3 +18,4 @@
 14-decimal_to_hexadecimal: converts the base 10 number stored in DECIMAL to base 16
 15-rot13: Encodes and decodes ASCII text using ROT13.
 16-odd: Prints every other input line, starting with the first.
+17-water_and_stir: Adds WATER and STIR in their custom base-5 encodings and prints the sum in base bestchol.
